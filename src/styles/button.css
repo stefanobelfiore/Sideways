@@ -1,0 +1,28 @@
+.blue-button{
+    width: 13rem;
+    height: 4rem;
+    border-radius: 1rem;
+    background-color: #108ffc;
+    border:none;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    color: white;
+}
+.orange-button{
+    width: 13rem;
+    height: 2rem;
+    border-radius: 1rem;
+    background-color:#f37126;
+    border:none;
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+}
+.salir-button{
+    border:0.05rem solid black;
+    border-radius: 1rem;
+    width: 5rem;
+    background-color: whitesmoke;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    color:#108ffc;
+}

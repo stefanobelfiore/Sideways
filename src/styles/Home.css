@@ -1,0 +1,81 @@
+.App {
+  height: 40rem;
+}
+
+.selecciona-destino{
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+}
+
+.top-page{
+  width: 100%;
+  height: 10rem;
+  display: inline-flex;
+  align-items: flex-end;
+  justify-content: space-between;
+}
+
+.central-page{
+  width: 100%;
+  display: inline-flex;
+  align-items: flex-end;
+  justify-content: space-evenly;
+}
+.first-button-blue, .second-button-blue, .third-button-blue{
+  margin-bottom: 2rem; 
+}
+.sideways-details{
+  width:21rem;
+  height: 22rem;
+  border: 0.15rem solid #108ffc;
+  border-radius: 0.8rem;
+}
+
+.image-file-phoenix9{
+  height: 12rem;
+  width: 14rem;
+  margin-left: 2.5rem;
+}
+.image-file-sideways{
+  height: 1.5rem;
+  width: 5rem;
+  margin-left:4rem;
+}
+
+
+.id  ,.position , .current-state , .destination {
+  font-family: 'Inter', sans-serif;
+  font-weight: 300;
+  display: inline-flex;
+  align-items: center;
+  margin-bottom: 1.2rem;
+  margin-left: 1rem;
+  border-bottom:0.10rem solid #108ffc ;
+  width: 19rem !important;
+  
+}
+.informations div{
+  width: 100%;
+}
+.fit-div-content{
+  width: fit-content !important;
+}
+.usuario-div{
+  display: inline-block;
+  justify-content:last baseline;
+}
+.usuario{
+  margin-left: 4rem;
+  font-family: 'Inter', sans-serif;
+  font-weight: 300;
+}
+.salir-div{
+  display: inline-block;
+  justify-content:last baseline;
+  margin-right: 14rem;
+  margin-bottom: 3rem;
+}
+.usuario-title{
+  font-family: 'Inter', sans-serif;
+  font-weight: 700;
+}
